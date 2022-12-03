@@ -15,12 +15,17 @@ See: [Home](https://mazhangjing.com/index.html)
   <img src="https://img.shields.io/badge/Kotlin-a134f1?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Scala-dc322f?style=for-the-badge&logo=scala&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=scala&logoColor=white" />
+</div>
+<div>
   <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-03589c?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-79d4fd?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+<div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-03589c?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 
 
