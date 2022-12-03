@@ -19,8 +19,8 @@ See: [Home](https://mazhangjing.com/index.html)
   <img src="https://img.shields.io/badge/Dart-03589c?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-79d4fd?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 
