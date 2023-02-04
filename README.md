@@ -18,6 +18,7 @@ See: [Home](https://mazhangjing.com/index.html)
 </div>
 <div>
   <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-FFD43B?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-79d4fd?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
