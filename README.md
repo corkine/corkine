@@ -1,8 +1,8 @@
-庸人一个，酷爱写作（自然语言和程序语言）。研究生主要涉猎领域包括：脑认知和虚拟现实， 曾（狂妄的）给 PNAS 投过稿，未中。对摄影、平面设计和绘画有些许品味。 最喜欢的自然语言是中文，程序设计语言则是表义丰富的 Clojure。曾经是 Scala（2020）。
+A mediocre person with a passion for writing (natural language and programming language). I have some taste in photography, graphic design, and painting. My favorite natural language is Chinese, while the programming language is Clojure with rich semantics. Formerly Scala (2020).
 
-我的技术栈包含了前端 ClojureScript/JavaScript, React.js、后端 Clojure/Java、Rust/C, Spring/Karaf-OSGi/PostgreSQL/Kafka/Redis 、客户端 Swift/Dart, SwiftUI/Flutter。主要从事 Web 后端和 Neutron 插件开发，业务涉及 SDN 软件定义云数据中心网络（OpenStack 网络硬件虚拟化，包括基于 BGP VXLAN EVPN 的 Underlay 和 Overlay 工作，以及基于 Hillstone 的 L4-7 FWAAS, LBAAS, VPNAAS 工作）。 
+My technology stack includes front-end ClojureScript/JavaScript, React.js, back-end Clojure/Java, OSGi/PostgreSQL/Kafka/Redis, client Swift/Dart, SwiftUI/Flutter. Mainly engaged in the development of web backend and Neutron plugins, the business involves SDN software definition cloud data center networks (OpenStack network hardware virtualization, including Underlay and Overlay work based on BGP VXLAN EVPN, as well as L4-7 FWAAS, LBAAS, VPNAS).
 
-See: [Home](https://mazhangjing.com/index.html)
+See: [Home](https://www.mazhangjing.com)
 
 <!---
 
