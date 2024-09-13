@@ -12,10 +12,11 @@ See: [Home](https://www.mazhangjing.com)
 
 <div>
   <img src="https://img.shields.io/badge/Clojure/Script-63B132?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-03589c?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-FFD43B?style=for-the-badge&logo=rust&logoColor=black" />
   <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 <!-- <div>
   <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=swift&logoColor=white" />
