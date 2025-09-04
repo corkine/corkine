@@ -1,6 +1,6 @@
 A mediocre person with a passion for writing (natural language and programming language). I have some taste in photography, graphic design, and painting. My favorite natural language is Chinese, while the programming language is Clojure with rich semantics. Formerly Scala (2020).
 
-My technology stack includes front-end ClojureScript/JavaScript, React.js, back-end Clojure/Java, OSGi/PostgreSQL/Kafka/Redis, client Swift/Dart, SwiftUI/Flutter. Mainly engaged in the development of web backend and Neutron plugins, the business involves SDN software definition cloud data center networks (OpenStack network hardware virtualization, including Underlay and Overlay work based on BGP VXLAN EVPN, as well as L4-7 FWAAS, LBAAS, VPNAS).
+My technology stack includes front-end ClojureScript/TypeScript, React.js and Astro.js, back-end Clojure/Kotlin/Golang, PostgreSQL/Kafka/Redis, client Dart/Flutter. Mainly engaged in the development of web backend, the business involves SDN software definition cloud data center networks (OpenStack network hardware virtualization, including Underlay and Overlay work based on BGP VXLAN EVPN, as well as L4-7 FWAAS, LBAAS, VPNAS).
 
 See: [Home](https://www.mazhangjing.com)
 
@@ -11,12 +11,8 @@ See: [Home](https://www.mazhangjing.com)
 ### 🌟 Languages
 
 <div>
-  <img src="https://img.shields.io/badge/Clojure/Script-63B132?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-03589c?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-FFD43B?style=for-the-badge&logo=rust&logoColor=black" />
-  <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/backend-blue?style=for-the-badge&label=Clojure%2C%20Kotlin">
+  <img alt="Static Badge" src="https://img.shields.io/badge/frontend-red?style=for-the-badge&label=Dart%2C%20TypeScript">
 </div>
 <!-- <div>
   <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=swift&logoColor=white" />
