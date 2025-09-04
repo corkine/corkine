@@ -11,7 +11,7 @@ See: [Home](https://www.mazhangjing.com)
 ### 🌟 Languages
 
 <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/backend-blue?style=for-the-badge&label=Clojure%2C%20Kotlin">
+  <img alt="Static Badge" src="https://img.shields.io/badge/backend-blue?style=for-the-badge&label=Clojure%2C%20Kotline%2C%20Go">
   <img alt="Static Badge" src="https://img.shields.io/badge/frontend-red?style=for-the-badge&label=Dart%2C%20TypeScript">
 </div>
 <!-- <div>
